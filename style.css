@@ -1,0 +1,32 @@
+button{
+    background-color: red;
+    border-radius: 999px;
+    height: 200px;
+    width: 200px;
+    border: none;
+    color: white;
+}
+
+.butao{
+    text-align: center;
+}
+
+.hidden{
+    border: 1px solid pink;
+    position: absolute;
+    top:50vh;
+    left: 50vw;
+}
+
+.active{
+    display: block;
+}
+
+.oceano{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.732);
+    position: absolute;
+    top: 1px;
+    display: none;
+}
